@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 nog een tekstje ofzo
 
 !!! Tekst van Ben!!!
+=======
+nog proberen we hier iets anders ofzo
+>>>>>>> d0c4d6bf55e6fbe542c4779b25be8e19d3ac6472
+
+zal dit werken
+
