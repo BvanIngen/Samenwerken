@@ -1,6 +1,6 @@
 from flask import Flask
 import Ben
-import bryan
+import Bryan
 
 app = Flask(__name__)
 
@@ -14,8 +14,8 @@ def anders():
     return "<p>Een hele andere wereld</p>"
 
 @app.route("/bryan1")
-def felixfunctie1():
-    return bryan.functievanBryan()
+def bryanfunctie1():
+    return Bryan.functievanBryan()
 
 @app.route("/Ben1")
 def JodieFunctie():
